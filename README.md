@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AritraNagtheEconometrician
 - 👀 I’m interested in econometrics, statistics, and using data to discover truths in the social sciences. 
 - 🌱 I’m currently learning how to use R for my statistical analyses and the econometrics of panel data.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me
-- 😄 Pronouns: ...
+- 💞️ I’m looking to
+- 📫 How to reach me: Email nagaritra6@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
